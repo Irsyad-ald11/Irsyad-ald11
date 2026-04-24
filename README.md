@@ -7,7 +7,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## <p align="center"> 🧑‍💻 About Me </p>
 
 * 💡 **Passionate** about crafting mobile apps and building modern web experiences.
 * 🌱 **Currently exploring**: Flutter, Next.js, and UI/UX design principles.
@@ -15,7 +15,7 @@
 * 📍 Based in **Indonesia** 🇮🇩
 
 ---
-## 🌐 Connect with Me
+## <p align="center"> 🌐 Connect with Me </p>
 
 <p align="center">
   <a href="https://discord.gg/irsyad_ald_06701" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
@@ -27,9 +27,9 @@
 
 ---
 
-## 💻 Tech Stack
+## <p align="center"> 💻 Tech Stack </p>
 
-### 🛠 Languages & Frameworks
+### <p align="center"> 🛠 Languages & Frameworks </p>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -60,11 +60,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## <p align="center">📊 GitHub Stats</p>
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Irsyad-ald11&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Irsyad-ald11&theme=ambient_gradient&hide_border=false" alt="GitHub Streak" /><br/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Irsyad-ald11&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
 
